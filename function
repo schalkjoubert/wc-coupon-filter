@@ -1,11 +1,6 @@
 <?php
 /** 
- * @snippet       Show Custom Filter @ WooCommerce Products Admin
- * @how-to        Watch tutorial @ https://businessbloomer.com/?p=19055 
- * @sourcecode    https://businessbloomer.com/?p=78136
- * @author        Rodolfo Melogli 
- * @compatible    Woo 3.5.3
- * @donate $9     https://businessbloomer.com/bloomer-armada/
+
  */
  
 //add_filter( 'woocommerce_product_filters', 'bbloomer_filter_by_custom_taxonomy_dashboard_products' );
